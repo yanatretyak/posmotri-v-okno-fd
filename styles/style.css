@@ -88,7 +88,6 @@ ol {
   font-size: 18px;
   font-weight: 400;
   line-height: 100%;
-  letter-spacing: 0%;
 }
 
 .content__details {
@@ -180,7 +179,6 @@ ol {
   font-size: 30px;
   font-weight: 700;
   line-height: 100%;
-  letter-spacing: 0%;
   text-transform: uppercase;
   overflow: hidden;
   white-space: nowrap;
@@ -192,7 +190,6 @@ ol {
 .content__video-card-description {
   font-size: 18px;
   line-height: 16.2px;
-  letter-spacing: 0%;
   line-clamp: 4;
   display: -webkit-box;
   -webkit-box-orient: vertical;
